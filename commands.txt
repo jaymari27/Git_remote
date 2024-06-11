@@ -46,3 +46,12 @@ git config --global user.email
 
 git status
 	displaays the current status of your file/folder
+
+git add .
+	adds all modified files in your current directory to staging area
+
+git add fileName
+	adds specific file to staging area
+
+git commit -m "commit message"
+	adds the changes to the committing area
