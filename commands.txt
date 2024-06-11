@@ -55,3 +55,9 @@ git add fileName
 
 git commit -m "commit message"
 	adds the changes to the committing area
+
+git log
+	displays all commits made
+
+git log --oneline
+	condensed version of git log
